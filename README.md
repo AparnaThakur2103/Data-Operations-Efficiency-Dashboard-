@@ -1,66 +1,41 @@
-# 📊 Data Operations Efficiency Dashboard  
+## 📈 Impact  
 
-A clean and structured Power BI dashboard designed to monitor operational performance in a brand protection environment — focusing on volume, productivity, and accuracy.
-
----
-
-## 💡 Overview  
-This project builds a centralized analytical view of compliance workflows that were previously managed through scattered spreadsheets.  
-The goal is simple — make performance visible, understandable, and easy to track.
+- Reduced manual effort involved in tracking and analyzing operational data  
+- Improved visibility into key performance indicators such as productivity and accuracy  
+- Enabled quicker identification of performance gaps and workload imbalances  
+- Supported data-driven decision-making for operational reviews  
 
 ---
 
-## ⚠️ Problem  
-Operational data was distributed across multiple sources, making it difficult to:
-- Track productivity (APH)  
-- Monitor accuracy trends  
-- Analyze workload distribution  
+## 🧠 Learning Outcomes  
 
-Manual analysis slowed down decision-making and reduced visibility into performance patterns.
-
----
-
-## 🎯 Objectives  
-- Track processed volume trends  
-- Monitor productivity (APH)  
-- Evaluate accuracy stability  
-- Enable faster operational reviews  
+- Gained practical experience in designing KPI-driven dashboards  
+- Understood the importance of weighted metrics (e.g., correct APH calculation using total volume and time)  
+- Improved data modeling and DAX logic for accurate performance representation  
+- Strengthened ability to translate business problems into analytical solutions  
 
 ---
 
-## 📊 Key Metrics  
-- **Processed Volume**  
-- **APH (Average Productivity per Hour)**  
-- **Accuracy Performance**  
+## ⚙️ Data Handling  
+
+- Cleaned and structured raw operational data using Excel  
+- Ensured consistency in metric definitions across different data sources  
+- Applied transformations to prepare data for visualization in Power BI  
 
 ---
 
-## 🚀 Dashboard Features  
-- Daily & weekly performance tracking  
-- Productivity & accuracy trend analysis  
-- Queue-wise breakdown  
-- Interactive filters for exploration  
+## 🔮 Future Improvements  
+
+- Integration with real-time data sources for live monitoring  
+- Advanced drill-through analysis for deeper performance insights  
+- Automation of data pipelines to reduce manual preprocessing  
+- Enhanced visual storytelling with more refined KPI indicators  
 
 ---
 
-## 🔍 Key Insights  
-- Majority of volume is concentrated among top contributors  
-- Productivity remains consistently stable  
-- Accuracy is maintained above 99%, indicating strong quality control  
-- Operational visibility improved significantly after dashboard implementation  
+## 👤 Author  
+
+**Aparna Thakur**  
+Data Analyst | Brand Protection  
 
 ---
-
-## 🛠 Tools Used  
-- **Power BI** – Dashboard development & visualization  
-- **Microsoft Excel** – Data preparation & structuring  
-
----
-
-## 🖼 Dashboard Preview  
-_Add your dashboard screenshot here_
-
----
-
-## ✨ Note  
-Designed with a focus on clarity and real-world usability — prioritizing meaningful insights over unnecessary complexity.
